@@ -60,7 +60,4 @@ rock_paper/
 
 GitHub: [@ManognaAnisetty](https://github.com/ManognaAnisetty)
 
----
-![Screenshot 2025-06-20 194312](https://github.com/user-attachments/assets/f37cebed-6699-47ec-ab68-8006e90a5e85)
 
-Enjoy playing! 🎉🕹️![Screenshot 2025-06-20 194347](https://github.com/user-attachments/assets/57ca7aad-290e-4896-972d-a80617ea2515)
