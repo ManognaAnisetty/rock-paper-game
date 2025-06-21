@@ -19,7 +19,7 @@ A fun browser-based Rock Paper Scissors game made using HTML, CSS, and JavaScrip
 1. Open the `index.html` file in your browser.
 2. Choose Rock, Paper, or Scissors.
 3. See if you win, lose, or tie against the system!
-
+You can enjoy playing here! 👉 [Click to Play](https://prolc.netlify.app/)
 ---
 
 ## 🛠️ Technologies Used
